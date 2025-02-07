@@ -1,2 +1,0 @@
-# RuCh.io
-RuCh
